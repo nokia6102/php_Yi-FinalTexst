@@ -1,0 +1,322 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ac",
+				"action\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "Package Control: install",
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install\t",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install pack",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"Package Control: install  Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: int",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 458.0,
+		"history":
+		[
+			"import webbrowser; webbrowser.open(\"https://www.google.com\")"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/maxcheng/test.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/maxcheng/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/maxcheng/05-07.php",
+		"/Users/maxcheng/Downloads/sourcetree.license",
+		"/Applications/XAMPP/xamppfiles/htdocs/maxcheng/test.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/maxcheng/test.sublime-project",
+		"/Users/maxcheng/Library/Application Support/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/Users/maxcheng/Library/Application Support/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/Users/maxcheng/Library/Application Support/Sublime Text 3/Packages/Xdebug Client/Xdebug.sublime-settings",
+		"/Users/maxcheng/Library/Application Support/Sublime Text 3/Packages/User/Xdebug.sublime-settings",
+		"/Applications/XAMPP/xamppfiles/htdocs/maxcheng/untitled.sublime-project",
+		"/Users/maxcheng/Desktop/Navicat for Mysql Mac破解版.txt",
+		"/Users/maxcheng/Library/Application Support/Sublime Text 3/Packages/User/mysql.sublime-build",
+		"/Users/maxcheng/Desktop/insert.sql",
+		"/Users/maxcheng/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/maxcheng/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/maxcheng/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/maxcheng/Desktop/test.php",
+		"/Library/WebServer/Documents/aaa.html",
+		"/Library/WebServer/Documents/index.html.en~orig",
+		"/Library/WebServer/Documents/index.html.en",
+		"/Users/maxcheng/Desktop/Reflector2",
+		"/Users/maxcheng/Desktop/jokes.json",
+		"/Users/maxcheng/Desktop/timezone",
+		"/Users/maxcheng/Desktop/pod.txt",
+		"/Users/maxcheng/Desktop/dd/1",
+		"/Users/maxcheng/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/maxcheng/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/maxcheng/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/private/etc/hosts",
+		"/Users/maxcheng/Desktop/towgoo.txt",
+		"/Users/maxcheng/Desktop/UXUI",
+		"/Users/maxcheng/Desktop/sqllite",
+		"/Users/maxcheng/Desktop/aaa.html",
+		"/Users/maxcheng/Desktop/0619i/C 語言只4有種型態.txt",
+		"/Users/maxcheng/Desktop/Swift_3大結構",
+		"/Users/maxcheng/Downloads/document (1).json",
+		"/Users/maxcheng/Desktop/data.json",
+		"/Users/maxcheng/Desktop/WuXiFeng2017",
+		"/Users/maxcheng/Desktop/memebrs.dat",
+		"/Users/maxcheng/Downloads/06 13.txt",
+		"/Users/maxcheng/Downloads/members (1).sql",
+		"/Users/maxcheng/Desktop/2cifang_2次方学习",
+		"/Users/maxcheng/Desktop/000host-localhost-0608_old.sql",
+		"/Users/maxcheng/Desktop/百度外掛",
+		"/Users/maxcheng/Desktop/suer.js",
+		"/Users/maxcheng/Desktop/teamviewer.txt",
+		"/Volumes/2T/MMCOMEHOME/towgoo-0608/aumem.sql",
+		"/Volumes/2T/MMCOMEHOME/towgoo-0608/sum_20055320_book-preDrop.sql",
+		"/Users/maxcheng/Downloads/localhost.sql",
+		"/Volumes/2T/MMCOMEHOME/towgoo-0608/sum_20055320_book-nodrop.sql",
+		"/Users/maxcheng/Downloads/sum_20055320_book-5.sql",
+		"/Volumes/2T/MMCOMEHOME/towgoo-0608/sum_20055320_book-4.sql",
+		"/Volumes/2T/MMCOMEHOME/towgoo-pkg/id1525563_book_0602_all.sql",
+		"/Users/maxcheng/Desktop/queryABC.txt",
+		"/Users/maxcheng/Desktop/anydestk.txt",
+		"/Users/maxcheng/Desktop/123test!",
+		"/Users/maxcheng/Desktop/遠端操控好幫手-RealVNC Enterprise Edition 4.6.3 E-mail.txt",
+		"/Users/maxcheng/Desktop/I0606-1",
+		"/Users/maxcheng/Desktop/0605_iOS模式.txt",
+		"/Users/maxcheng/Desktop/PhpStorm.txt",
+		"/Users/maxcheng/Documents/towgoo-pkg/id1525563_book_0602_all.sql",
+		"/Users/maxcheng/Downloads/id1525563_book(2).sql",
+		"/Users/maxcheng/Desktop/atom_plugin",
+		"/Users/maxcheng/Desktop/0601/my_Pracitce/second_ios_app/john.storyboard",
+		"/Users/maxcheng/Desktop/0601-iOS",
+		"/Users/maxcheng/Desktop/0601_Swift",
+		"/Users/maxcheng/Desktop/pmset displaysleepnow.txt",
+		"/Volumes/Tower_sdifenzhou.com/license",
+		"/Users/maxcheng/Desktop/oneGenView.sql",
+		"/Users/maxcheng/Desktop/mysql.sql",
+		"/Users/maxcheng/Desktop/Ym1234ab",
+		"/Users/maxcheng/Desktop/set.sql",
+		"/Applications/XAMPP/xamppfiles/etc/proftpd.conf",
+		"/Applications/XAMPP/xamppfiles/phpmyadmin/config.inc.php",
+		"/Applications/XAMPP/xamppfiles/apache2/conf/httpd.conf",
+		"/Users/maxcheng/Desktop/0524.txt",
+		"/Users/maxcheng/Desktop/Universal License Keys.txt",
+		"/Users/maxcheng/Desktop/VMware Workstation 12.5.1 Pro.txt",
+		"/Users/maxcheng/Desktop/pso.sh",
+		"/Users/maxcheng/Desktop/macOS.txt",
+		"/Users/maxcheng/Documents/towgoo/booking_7sie4q5iys.php",
+		"/Users/maxcheng/Desktop/ParallelsDesktop-12.1.1-41491.txt",
+		"/Users/maxcheng/Desktop/NTFS For Mac 序列號-註冊碼-激活碼.txt",
+		"/Users/maxcheng/Desktop/admin",
+		"/Users/maxcheng/Desktop/10.12 以上才可以用最新版.txt",
+		"/Users/maxcheng/Documents/物件導向(程式設計)",
+		"/Users/maxcheng/Desktop/0517/jsSetSo4IN/jsSetSo4IN/main.swift"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 123.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"/bin",
+			"A123123123",
+			"vhost",
+			"user",
+			"port",
+			"user",
+			"port",
+			"3306"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"A100010000"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 321.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 184.0
+	},
+	"pinned_build_system": "Packages/User/mysql.sublime-build",
+	"project": "99.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 283.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}

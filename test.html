@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>test</title>
+
+
+
+
+</head>
+<body>
+	<form method="GET" action="homework2.php">
+<fieldset>
+	<legend>個人資訊</legend>
+姓名：<input type="text" name="username"><br>
+性別：<input type="radio" name="usersex" value="male">男
+     <input type="radio" name="usersex" value="female">女<br>
+最高學歷：<select name = "userschool">
+	<option value="高中以下">高中以下 </option>
+	<option value="大專院校">大專院校 </option>
+	<option value="碩士">碩士 </option>
+	<option value="博士">博士</option>
+</select>
+</fieldset>
+
+<fieldset>
+<legend>其他資訊</legend>
+你喜歡下列哪些活動<br>
+<input type="checkbox" name="userinterst[]" value="閱讀"> 閱讀
+<input type="checkbox" name="userinterst[]" value="打球"> 打球
+<input type="checkbox" name="userinterst[]" value="逛街"> 逛街
+<input type="checkbox" name="userinterst[]" value="聽音樂"> 聽音樂
+<input type="checkbox" name="userinterst[]" value="水上運動"> 水上運動
+<input type="checkbox" name="userinterst[]" value="旅遊"> 旅遊
+</fieldset>
+<input type="submit" name="送出">
+<input type="reset" name="重新輸入">
+</form>
+</body>
+</html>

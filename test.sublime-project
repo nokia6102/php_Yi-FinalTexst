@@ -1,0 +1,15 @@
+{
+      "folders":
+      [
+        {
+            "follow_symlinks": true,
+            "path":"/Applications/XAMPP/xamppfiles/htdocs/maxcheng"
+        }
+      ],
+      "settings": {
+                     "xdebug": {
+                                       "url": "http://127.0.0.1:6080",
+                     }
+      }
+
+   }
