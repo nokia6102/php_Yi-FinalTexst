@@ -3,8 +3,6 @@ date_default_timezone_set("Asia/Taipei");
 
 if (isset($_POST["action"]) && ($_POST["action"] == "add")) {
 
-	print(">".$_POST["cID"]);
-	print(">".$_POST["cTemp"]);
 	require_once ("connMysql.php");
 	//print "ok";
 	$sql_query = "INSERT INTO `temperature_DB` (`userid`,`temperature`,`datatime`) VALUES (";
